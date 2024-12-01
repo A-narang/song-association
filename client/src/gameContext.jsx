@@ -1,8 +1,11 @@
 import React, { createContext, useState } from "react";
 
-// Create the context
 export const SelectedSongContext = createContext();
 
+/**
+ * Provider component that wraps the application to provide selected song data
+ * and update functions to the rest of the components.
+ */
 export const SelectedSongProvider = ({ children }) => {
   const [selectedSongTitle, setSelectedSongTitle] = useState(null);
   const [selectedSongArtist, setSelectedSongArtist] = useState(null);
