@@ -105,3 +105,12 @@ song-association
 │   │   └── songSuggestionService.js
 │   └── index.js
 ```
+## Acknowledgements
+
+- Lyrics.ovh API
+
+- npm random-words
+
+##
+
+Thank you for checking out my project! 
