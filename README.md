@@ -12,23 +12,24 @@ Welcome to the Song Association Game! This project is a web-based implementation
 
 ### Frontend
 
-- React.js: For building the interactive UI.
+- **React.js**: For building the interactive UI.
+- **CSS**: Styling components and creating a responsive design.
 
 ### Backend
 
-- Node.js: Server-side JavaScript runtime.
+- **Node.js**: Server-side JavaScript runtime.
 
-- Express.js: Backend framework for handling routes and middleware.
+- **Express.js**: Backend framework for handling routes and middleware.
 
-- Lyrics API: Fetch lyrics, get song suggestions, and validate user input.
+- **Lyrics API**: Fetch lyrics, get song suggestions, and validate user input.
 
 ### Other Tools
 
-- npm: Package manager for managing dependencies.
+-** npm**: Package manager for managing dependencies.
 
-- random-words: Generate random words for gameplay.
+- **random-words**: Generate random words for gameplay.
 
-- CORS & Body-Parser: Middleware for API requests.
+- **CORS & Body-Parser**: Middleware for API requests.
 
 ## Getting Started
 
