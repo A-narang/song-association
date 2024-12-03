@@ -95,8 +95,7 @@ song-association
 │   │   ├── songAssociationController.js
 │   │   └── songSuggestionController.js
 │   ├── models
-│   │   ├── simpleSongAssociation.js
-│   │   └── ...
+│   │   └── simpleSongAssociation.js
 │   ├── routes
 │   │   ├── gameRoutes.js
 │   │   └── suggestionRoutes.js
