@@ -18,17 +18,13 @@ Welcome to the Song Association Game! This project is a web-based implementation
 ### Backend
 
 - **Node.js**: Server-side JavaScript runtime.
-
 - **Express.js**: Backend framework for handling routes and middleware.
-
 - **Lyrics API**: Fetch lyrics, get song suggestions, and validate user input.
 
 ### Other Tools
 
 - **npm**: Package manager for managing dependencies.
-
 - **random-words**: Generate random words for gameplay.
-
 - **CORS & Body-Parser**: Middleware for API requests.
 
 ## Getting Started
@@ -105,10 +101,16 @@ song-association
 │   │   └── songSuggestionService.js
 │   └── index.js
 ```
+## Future Enhancements
+
+- Add user authentication and scores leaderboard.
+- Improve the UI with animations and themes.
+- Expand game rules for additional challenges.
+- Enhance error handling for better UX.
+  
 ## Acknowledgements
 
 - Lyrics.ovh API
-
 - npm random-words
 
 ##
