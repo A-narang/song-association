@@ -75,3 +75,33 @@ npm start
 ```
 
 6. Access the app at http://localhost:3000 in your browser.
+
+## Project Structure 
+```
+song-association
+├── client
+│   ├── src
+│   │   ├── components
+│   │   │   ├── DisplaySelectedSong.js
+│   │   │   ├── GameActions.js
+│   │   │   └── SongSearch.js
+│   │   ├── services
+│   │   │   ├── GameService.js
+│   │   │   └── SuggestionService.js
+│   │   ├── App.js
+│   │   └── index.js
+├── server
+│   ├── controllers
+│   │   ├── songAssociationController.js
+│   │   └── songSuggestionController.js
+│   ├── models
+│   │   ├── simpleSongAssociation.js
+│   │   └── ...
+│   ├── routes
+│   │   ├── gameRoutes.js
+│   │   └── suggestionRoutes.js
+│   ├── services
+│   │   ├── lyricsService.js
+│   │   └── songSuggestionService.js
+│   └── index.js
+```
