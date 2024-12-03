@@ -25,7 +25,7 @@ Welcome to the Song Association Game! This project is a web-based implementation
 
 ### Other Tools
 
--** npm**: Package manager for managing dependencies.
+- **npm**: Package manager for managing dependencies.
 
 - **random-words**: Generate random words for gameplay.
 
