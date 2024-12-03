@@ -64,7 +64,6 @@ npm install
 4. Start the backend server:
 
 ```
-cd ../server
 npm start
 ```
 
