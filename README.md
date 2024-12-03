@@ -73,6 +73,18 @@ npm start
 
 6. Access the app at http://localhost:3000 in your browser.
 
+## API Endpoints
+
+### Game Routes
+
+- GET /game/getword: Get the current word for the game.
+- GET /game/newword: Generate a new random word.
+- POST /game/guess: Validate if the user's song choice contains the word.
+
+### Suggestion Routes
+
+- POST /suggest/songs: Fetch song suggestions based on a search query.
+
 ## Project Structure 
 ```
 song-association
