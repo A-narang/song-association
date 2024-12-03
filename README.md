@@ -8,13 +8,13 @@ Welcome to the Song Association Game! This project is a web-based implementation
 - Verify if a song title and artist contains the given word using a lyrics API.
 - Provide real-time song suggestions as the player types a song name.
 
-Technologies Used
+## Technologies Used
 
-## Frontend
+### Frontend
 
 - React.js: For building the interactive UI.
 
-## Backend
+### Backend
 
 - Node.js: Server-side JavaScript runtime.
 
