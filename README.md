@@ -22,7 +22,7 @@ Welcome to the Song Association Game! This project is a web-based implementation
 
 - Lyrics API: Fetch lyrics, get song suggestions, and validate user input.
 
-## Other Tools
+### Other Tools
 
 - npm: Package manager for managing dependencies.
 
